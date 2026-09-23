@@ -1,3 +1,5 @@
+> **Moved to [PeerawitDeesamer/claude-skills](https://github.com/PeerawitDeesamer/claude-skills).** This repo is kept for old links and is no longer updated.
+
 # breakdown — a problem-solving coach
 
 A [Claude Code](https://claude.com/claude-code) skill that teaches you to break down
